@@ -1,2 +1,3 @@
-# AHernandez-MJ
-Programacion Estructurada martes y jueves 
+# COMP2315 Martes - Jueves 
+## Autor: Alessay Hernandez 
+Programacion Estructurada martes - jueves 
