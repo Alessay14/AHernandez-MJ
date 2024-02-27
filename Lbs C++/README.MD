@@ -1,1 +1,1 @@
-# Laboratorios es C++
+# Laboratorios en C++
